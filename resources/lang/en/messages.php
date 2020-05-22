@@ -1,0 +1,23 @@
+<?php
+return [
+    'welcome_login' => 'You are logged in!',
+    'dashboard' => 'Dashboard',
+    'navigation' => 'Toggle navigation',
+    'login' => 'Login',
+    'register' => 'Register',
+    'logout' => 'Logout',
+    'name' => 'Name',
+    'email' => 'Email Address',
+    'password' => 'Password',
+    'password_confirm' => 'Confirm Password',
+    'password_remind' => 'Please confirm your password before continuing.',
+    'forget_password' => 'Forgot Your Password?',
+    'password_reset' => 'Reset Password',
+    'password_request' => 'Send Password Reset Link',
+    'remember_login' => 'Remember Me',
+    'email_verify' => 'Verify Your Email Address',
+    'email_sent' => 'A fresh verification link has been sent to your email address.',
+    'email_check' => 'Before proceeding, please check your email for a verification link.',
+    'email_failed' => 'If you did not receive the email',
+    'email_request' => 'click here to request another',
+];
