@@ -20,4 +20,5 @@ return [
     'email_check' => 'Before proceeding, please check your email for a verification link.',
     'email_failed' => 'If you did not receive the email',
     'email_request' => 'click here to request another',
+    'error' => 'Whoops! Something went wrong!',
 ];
